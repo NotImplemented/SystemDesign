@@ -1,4 +1,6 @@
 # SystemDesign
 
 # TinyUrl
-[TinyUrl](https://github.com/NotImplemented/SystemDesign/blob/main/tiny_url.svg)
+
+![Alt text](./tiny_url.svg)
+<img src="./tiny_url.svg">
