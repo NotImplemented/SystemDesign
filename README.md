@@ -9,3 +9,12 @@
 
 # Dropbox
 <img src="./dropbox.svg">
+
+# Messenger
+<img src="./messenger.svg">
+
+# Twitter
+<img src="./twitter.svg">
+
+# Youtube
+<img src="./youtube.svg">
