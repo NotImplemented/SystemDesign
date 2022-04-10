@@ -27,3 +27,15 @@
 
 # Twitter Search
 <img src="./twitter.svg">
+
+# Crawler
+<img src="./crawler.svg">
+
+# Newsfeed
+<img src="./newsfeed.svg">
+
+# Yelp
+<img src="./yelp.svg">
+
+# Uber
+<img src="./uber.svg">
