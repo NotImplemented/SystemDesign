@@ -1,4 +1,4 @@
 # SystemDesign
 
 # TinyUrl
-[TinyUrl](https://github.com/NotImplemented/tiny_url.svg)
+[TinyUrl](https://github.com/NotImplemented/SystemDesign/blob/main/tiny_url.svg)
