@@ -18,3 +18,12 @@
 
 # Youtube
 <img src="./youtube.svg">
+
+# TypeAhead
+<img src="./typeahead.svg">
+
+# Rate Limiter
+<img src="./rate_limiter.svg">
+
+# Twitter Search
+<img src="./twitter.svg">
