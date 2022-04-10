@@ -29,7 +29,7 @@
 <img src="./twitter.svg">
 
 # Crawler
-<img src="./crawler.svg">
+<img src="./web_crawler.svg">
 
 # Newsfeed
 <img src="./newsfeed.svg">
