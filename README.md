@@ -20,7 +20,7 @@
 <img src="./youtube.svg">
 
 # TypeAhead
-<img src="./typeahead.svg">
+Try to draw a trie.
 
 # Rate Limiter
 <img src="./rate_limiter.svg">
